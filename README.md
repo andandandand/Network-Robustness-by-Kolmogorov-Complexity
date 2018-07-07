@@ -60,7 +60,7 @@ Rueda Toicen, A. (2018, July 7). andandandand/Network-Attack-Robustness-by-Kolmo
 
 ### Author: Antonio Rueda-Toicen
 - antonio "dot" rueda "." toicen "at" gmail 'dot' com
-- antonio "dot" rueda "." toicen "at" algorithmicnaturelab 'dot' com
+- antonio "dot" rueda "." toicen "at" algorithmicnaturelab 'dot' org
 
 ### License: MIT
 
