@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/140115135.svg)](https://zenodo.org/badge/latestdoi/140115135)
+
+
 # Network Robustness to BDM-Directed Sequential and Simultaneous Attack
 Estimation of the robustness of networks to attacks directed using Kolmogorov complexity as estimated by the Block Decomposition Method. 
 
@@ -39,20 +42,21 @@ Sparsification Method By Minimal Algorithmic Information Loss arXiv preprint arX
 
 ***If you use this code for a publication, please cite the above references and the following***:
 
-Rueda-Toicen, Antonio, Network Robustness to BDM-directed Sequential and Simultaneous Attack, (2018), GitHub repository, 
-https://github.com/andandandand/Network-Attack-Robustness-by-Kolmogorov-complexity-centrality
+Rueda Toicen, A. (2018, July 7). andandandand/Network-Attack-Robustness-by-Kolmogorov-complexity-centrality: Network Attack Robustness by Kolmogorov Complexity Centrality (Version v1.0.0). Zenodo. http://doi.org/10.5281/zenodo.1307238
 
 #### BibTex
 ```
-@misc{Rueda-Toicen2018,
-  author = {Rueda-Toicen, Antonio},
-  title = {Network Robustness to BDM-directed Sequential and Simultaneous Attack},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {https://github.com/andandandand/Network-Attack-Robustness-by-Kolmogorov-complexity-centrality},
-  DOI = {}
-  }
+@misc{antonio_rueda_toicen_2018_1307238,
+  author       = {Antonio Rueda Toicen},
+  title        = {{andandandand/Network-Attack-Robustness-by- 
+                   Kolmogorov-complexity-centrality: Network Attack
+                   Robustness by Kolmogorov Complexity Centrality}},
+  month        = jul,
+  year         = 2018,
+  doi          = {10.5281/zenodo.1307238},
+  url          = {https://doi.org/10.5281/zenodo.1307238}
+}
+
 ```
 
 ### Author: Antonio Rueda-Toicen
