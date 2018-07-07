@@ -44,13 +44,13 @@ Rueda Toicen, A. (2018, July 7). andandandand/Network-Attack-Robustness-by-Kolmo
 
 #### BibTex
 ```
-@misc{antonio_rueda_toicen_2018_1307239,
-  author       = {Antonio Rueda Toicen},
+@misc{Rueda-Toicen2018-robustness,
+  author       = {Rueda-Toicen, Antonio},
   title        = {{andandandand/Network-Attack-Robustness-by- 
                    Kolmogorov-complexity-centrality: Network
                    Robustness to Attacks Directed through Estimations
                    of Kolmogorov Complexity}},
-  month        = jul,
+  month        = July,
   year         = 2018,
   doi          = {10.5281/zenodo.1307239},
   url          = {https://doi.org/10.5281/zenodo.1307239}
