@@ -1,6 +1,5 @@
 [![DOI](https://zenodo.org/badge/140115135.svg)](https://zenodo.org/badge/latestdoi/140115135)
 
-
 # Network Robustness to Attacks Directed through Estimations of Kolmogorov Complexity
 Estimation of the robustness of networks to attacks directed using Kolmogorov complexity as estimated by the Block Decomposition Method. 
 
@@ -9,7 +8,6 @@ This Wolfram Mathematica code computes the R-index (robustness) according to seq
 One can direct attacks to the elements (nodes/edges) in a network according to a "centrality" metric that assigns a relative importance to each. In a "sequential attack" that erases i elements, after an element is removed the centrality metric is re-evaluated to take into account the change in the network's structure, whereas in a "simultaneous" attack the centrality metric of every element is evaluated once, prior to any deletion [Iyer13].  The Block Decomposition Method (BDM) can be used to assign centrality scores to vertices or edges according to their information contribution [Zenil14, Zenil16, Zenil18a, Zenil18b]. 
 
 ![alt text](https://raw.githubusercontent.com/andandandand/Network-Attack-Robustness-by-Kolmogorov-complexity-centrality/master/img/centrality-highlight.PNG)
-
 
 ### References
 
@@ -42,19 +40,20 @@ Sparsification Method By Minimal Algorithmic Information Loss arXiv preprint arX
 
 ***If you use this code for a publication, please cite the above references and the following***:
 
-Rueda Toicen, A. (2018, July 7). andandandand/Network-Attack-Robustness-by-Kolmogorov-complexity-centrality: Network Attack Robustness by Kolmogorov Complexity Centrality (Version v1.0.0). Zenodo. http://doi.org/10.5281/zenodo.1307238
+Rueda Toicen, A. (2018, July 7). andandandand/Network-Attack-Robustness-by-Kolmogorov-complexity-centrality: Network Robustness to Attacks Directed through Estimations of Kolmogorov Complexity (Version v1.0.1). Zenodo. http://doi.org/10.5281/zenodo.1307239
 
 #### BibTex
 ```
-@misc{antonio_rueda_toicen_2018_1307238,
+@misc{antonio_rueda_toicen_2018_1307239,
   author       = {Antonio Rueda Toicen},
   title        = {{andandandand/Network-Attack-Robustness-by- 
-                   Kolmogorov-complexity-centrality: Network Attack
-                   Robustness by Kolmogorov Complexity Centrality}},
+                   Kolmogorov-complexity-centrality: Network
+                   Robustness to Attacks Directed through Estimations
+                   of Kolmogorov Complexity}},
   month        = jul,
   year         = 2018,
-  doi          = {10.5281/zenodo.1307238},
-  url          = {https://doi.org/10.5281/zenodo.1307238}
+  doi          = {10.5281/zenodo.1307239},
+  url          = {https://doi.org/10.5281/zenodo.1307239}
 }
 
 ```
