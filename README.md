@@ -34,7 +34,7 @@ An Algorithmic Information Calculus for Causal Discovery and Reprogramming Syste
 [Zenil18a] Zenil, H., Kiani, N. A., Zea, A. & Tegnér, J. (2018). Ab initio Algorithmic Causal Deconvolution of Intertwined Programs 
 and Networks by Generative Mechanism. arXiv preprint arXiv:1802.09904.
 
-[Zenil18b] Zenil, H., Kiani, N. A., Rueda-Toicen, A., Zea, A. & Tegnér, J. (2018) Universal Data Reduction and Network 
+[Zenil18b] Zenil, H., Kiani, N. A., Rueda-Toicen, A., Zea, A. & Tegnér, J. (2018) Data Dimension Reduction and Network 
 Sparsification Method By Minimal Algorithmic Information Loss arXiv preprint arXiv:1802.05843
 
 
