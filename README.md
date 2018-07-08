@@ -40,16 +40,16 @@ Sparsification Method By Minimal Algorithmic Information Loss arXiv preprint arX
 
 ***If you use this code for a publication, please cite the above references and the following***:
 
-Rueda Toicen, A. (2018, July 7). andandandand/Network-Attack-Robustness-by-Kolmogorov-complexity-centrality: Network Robustness to Attacks Directed through Estimations of Kolmogorov Complexity (Version v1.0.1). Zenodo. http://doi.org/10.5281/zenodo.1307239
+Rueda Toicen, A. (2018, July 7). Network Robustness to Attacks Directed through Estimations of Kolmogorov Complexity (Version v1.0.1), Github repository, https://github.com/andandandand/Network-Attack-Robustness-by-Kolmogorov-complexity-centrality, DOI: 10.5281/zenodo.1307239
 
 #### BibTex
 ```
 @misc{Rueda-Toicen2018-robustness,
   author       = {Rueda-Toicen, Antonio},
-  title        = {{andandandand/Network-Attack-Robustness-by- 
-                   Kolmogorov-complexity-centrality: Network
+  title        = {{Network
                    Robustness to Attacks Directed through Estimations
                    of Kolmogorov Complexity}},
+  howpublished = {}
   month        = July,
   year         = 2018,
   doi          = {10.5281/zenodo.1307239},
