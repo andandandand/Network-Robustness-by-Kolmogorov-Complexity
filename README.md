@@ -1,9 +1,9 @@
 [![DOI](https://zenodo.org/badge/140115135.svg)](https://zenodo.org/badge/latestdoi/140115135)
 
-# Network Robustness to Attacks Directed through Estimations of Kolmogorov Complexity
+# Network Robustness to Attacks Directed by Estimations of Kolmogorov Complexity
 Estimation of the robustness of networks to attacks directed using Kolmogorov complexity as estimated by the Block Decomposition Method. 
 
-This Wolfram Mathematica code computes the R-index (robustness) according to sequential or simultaneous attacks (deletions) to vertices in the network directed through the [Block Decomposition Method](https://arxiv.org/abs/1609.00110), a metric that estimates the algorithmic information content (Kolmogorov complexity) of a graph. 
+This Wolfram Mathematica code computes the R-index (robustness) according to sequential or simultaneous attacks to vertices in a network. Attacks are directed using the [Block Decomposition Method](https://arxiv.org/abs/1609.00110), a metric that estimates the algorithmic information content (Kolmogorov complexity) of a graph. 
 
 One can direct attacks to the elements (nodes/edges) in a network according to a "centrality" metric that assigns a relative importance to each. In a "sequential attack" that erases i elements, after an element is removed the centrality metric is re-evaluated to take into account the change in the network's structure, whereas in a "simultaneous" attack the centrality metric of every element is evaluated once, prior to any deletion [Iyer13].  The Block Decomposition Method (BDM) can be used to assign centrality scores to vertices or edges according to their information contribution [Zenil14, Zenil16, Zenil18a, Zenil18b]. 
 
